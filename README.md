@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to Ian's GitHhub!
 
-<!--
-**Ian-FN/Ian-FN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ian Noronha and I am a computer science student at Toronto Metropolitan University (Formerly Ryerson University).
+This repository will act as a central hub for any future projects and contributions.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sudoku Solver (In Progress)
+A simple Sudoku solver that uses backtracking to complete a regular 9x9 Sudoku. I will be utilizing Python to create this project.
+
+
+## Connect with Me
+📧 Email: inor04@gmail.com
+💼 LinkedIn: www.linkedin.com/in/ianfn
