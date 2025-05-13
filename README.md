@@ -5,8 +5,8 @@ This repository will act as a central hub for any future projects and contributi
 
 ## Projects
 
-### Sudoku Solver (In Progress)
-A simple Sudoku solver that uses backtracking to complete a regular 9x9 Sudoku. I will be utilizing Python to create this project.
+### Report Tracker
+A simple app that allows users to sign up, submit incident reports, view and subscribe to reports to recieve notifications, and displays reports on a map using Google Maps API.
 
 
 ## Connect with Me
